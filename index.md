@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+title: Hello world!
 ---
 
+## Demo
+
+Lorem ipsum dolor sit amet
